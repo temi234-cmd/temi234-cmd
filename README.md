@@ -35,4 +35,4 @@ I focus on clean UI, good user experience, and scalable code.
 ## 📫 Contact Me
 - Email: olatunjioluwagbotemi67@gmail.com
 - WhatsApp: +234 91 6320 8899
-- Portfolio: [https://your-portfolio-link](https://my-portfolio-oluwagbotemis-projects.vercel.app/)
+- Portfolio: https://second-portfolio-two.vercel.app/
