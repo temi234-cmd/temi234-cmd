@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="mailto:olatunjioluwagbotemi67@gmail.com">📧 Email</a> &nbsp;•&nbsp;
-  <a href="https://tiktok.com/@temi_szn1">🎵 TikTok</a> &nbsp;•&nbsp;
+  <a href="tiktok.com/@gbotemibuilds">🎵 TikTok</a> &nbsp;•&nbsp;
   <a href="https://second-portfolio-two.vercel.app/">🌐 Portfolio</a>
 </p>
 
